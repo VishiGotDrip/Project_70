@@ -1,0 +1,56 @@
+#video{
+width:100%;
+height:500px;
+background-color:aqua;
+border:none;   
+}
+
+h1{
+color:blue;
+font:bold;
+background-color:black;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.travel_mainDiv{
+border:5px dashed red;
+background-color:black;  
+}
+
+.travel_mainDiv img{
+width:100%;
+background-color:black;     
+}
+
+.travel_mainDiv, .travel_mainDiv p{
+margin:20px;
+background-color:black;    
+}
+
+.travel_mainDiv h5, .travel_mainDiv p{
+font-size:17px;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    
+}
+
+h2{
+color:blue;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font:bold;
+background-color:black;
+border:5px solid blue 
+}
+
+.movie_head{
+font-size:20px;
+padding: 6px 22px
+border-radius:10px;
+margin-bottom:15px;    
+}
+
+.movie_head i{
+float:right;    
+}
+
+.achievment_text span{
+color:orange    
+}
